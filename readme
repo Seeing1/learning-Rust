@@ -2,14 +2,14 @@ Variables :- can be in two forms; mutable and immutable; mutable when the value 
 functions :- learnt how to write a function in rust
 if :- is a system of comparison 
 primative type :- used to learn about different types of varibles and data types
-vectors
+vectors :- is like an array of things stored in a single place
 struture
-enum
-strings
+enum  :- classes object of that have something related together
+strings :- words basically
 module :- classes functions into either private or public
 hash maps :- related to vectors; where each key as its specfic value
 option
-error handling
+error handling :- how to throw and error and allow a code to run witjout crashing midway
 generic :- gives a mutable data type to a system and prevents calling each indvidually
 trait
 lifetime :- shows how long a variable is accessable afterwich it isnt
@@ -17,5 +17,5 @@ iterators :- spread the a value over others
 smartpointers :- Box ,Arc and Cow
 thread
 marcos
-clippy
+clippy :- helps make our work more accurate and prevent common mistakes
 conversion
